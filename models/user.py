@@ -1,9 +1,9 @@
-#!/usr/bin/python3
-
+#!usr/bin/python3
 from models.base_model import BaseModel
 
+
 class User(BaseModel):
-    """User class"""
+    """Creates a new user"""
     email = ""
     password = ""
     first_name = ""
