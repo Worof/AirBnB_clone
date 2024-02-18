@@ -1,8 +1,9 @@
-footer {color:#00FF00;
+footer {color: white;
     height: 60px;
 width: 100%;
-position: absolute;
+position: fixed;
 display: flex;
+border-top:  1px solid #CCCCCC;
 bottom: 0;
 justify-content: center;
 align-items: center;
